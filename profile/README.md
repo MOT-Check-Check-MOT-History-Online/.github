@@ -1,4 +1,4 @@
-# What is an MOT Check?
+# MOT Check - Check MOT History Online Of Any UK Vehicle
 
 An MOT check is a test carried out in the UK to ensure a vehicle meets road safety and environmental standards. The test is named after the Ministry of Transport, which introduced it. The MOT test is required for most vehicles older than three years. It helps ensure that cars, motorcycles, and other vehicles are safe to drive and not harming the environment.
 
